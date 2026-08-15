@@ -38,7 +38,9 @@ A responsive and user-friendly Random Password Generator built using HTML, CSS, 
 
 ## 📸 Screenshots
 
-Add a screenshot of your project here.
+![Random Password Generator](screenshots/password-generator1.png)
+![Random Password Generator](screenshots/password-generator2.png)
+![Random Password Generator](screenshots/password-generator3.png)
 
 ## 👨‍💻 Author
 
